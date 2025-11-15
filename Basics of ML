@@ -1,0 +1,11 @@
+Supervised Learning: Input + Output both are provided to the model and then he learns from the Pattern.
+Unsupervised Learning: Only Input is given and model learns and performs without any Explicit Guidance.
+Reinforcement Learning: Model Learns via interaction with the environment.
+____________________________________________________________________________________________________________________________________________________________________________________________
+// MINDSET
+1. Treat Data as Raw Vegetables (They can Be messy but you gotta clean them before serving)
+2. Always Go Through the Preprocessing Step cuz Even good Models can Fail due to messy Data
+3. You Are Gonna Stand Out Among Copy Pasters
+
+
+
